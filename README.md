@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer based in Orange County, California 🇺🇸 and currently developing software that strengthens our democracy utilizing blockchain at [Vidaloop](https://vidaloop.com/). You can view my portfolio at https://jaredrummler.com/portfolio
+I am a software engineer based in Orange County, California 🇺🇸 You can view my portfolio at https://jaredrummler.com/portfolio
 
 ---
 
