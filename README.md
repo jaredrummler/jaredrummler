@@ -1,11 +1,3 @@
-### Hi there 👋
-
-I am a software engineer based in Orange County, California 🇺🇸 You can view my portfolio at https://jaredrummler.com/portfolio
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=jaredrummler&theme=vue-dark&show_icons=true&count_private=true" align="left" hspace="10" vspace="10"></a>
-
 <p align="center">
   <a target="_blank" href="https://twitter.com/jaredrummler"><img src="https://img.shields.io/twitter/follow/jaredrummler.svg?style=social" /></a>
   <a target="_blank" href="https://github.com/jaredrummler"><img src="https://img.shields.io/github/followers/jaredrummler?style=social" /></a>
