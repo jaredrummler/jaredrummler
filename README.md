@@ -6,6 +6,7 @@ Entrepreneurial Software Engineer **//** Founder & CEO at [GoatBytes.IO][GOATBYT
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-38k-FE7A16?style=flat&logo=StackOverflow)][STACKOVERFLOW]
 [![X (Twitter)](https://img.shields.io/badge/@jaredrummler-8.5k-000000?style=flat&logo=X&logoColor=white&color=000000)][X]
 [![GitHub](https://img.shields.io/github/followers/jaredrummler?flat&logo=github)][GITHUB]
+![GitHub User's stars](https://img.shields.io/github/stars/jaredrummler?style=flat)
 
 [GOATBYTES.IO]: https://goatbytes.io
 [LINKEDIN]: https://www.linkedin.com/in/jaredrummler/
